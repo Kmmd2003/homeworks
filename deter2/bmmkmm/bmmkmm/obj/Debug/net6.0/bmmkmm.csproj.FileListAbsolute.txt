@@ -1,0 +1,15 @@
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\bin\Debug\net6.0\bmmkmm.exe
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\bin\Debug\net6.0\bmmkmm.deps.json
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\bin\Debug\net6.0\bmmkmm.runtimeconfig.json
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\bin\Debug\net6.0\bmmkmm.dll
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\bin\Debug\net6.0\bmmkmm.pdb
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\bmmkmm.csproj.AssemblyReference.cache
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\bmmkmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\bmmkmm.AssemblyInfoInputs.cache
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\bmmkmm.AssemblyInfo.cs
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\bmmkmm.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\bmmkmm.dll
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\refint\bmmkmm.dll
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\bmmkmm.pdb
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\bmmkmm.genruntimeconfig.cache
+C:\Users\mahmo\Desktop\homeworks\deter2\bmmkmm\bmmkmm\obj\Debug\net6.0\ref\bmmkmm.dll
